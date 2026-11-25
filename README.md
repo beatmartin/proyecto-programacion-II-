@@ -8,9 +8,9 @@ Aplicación de escritorio desarrollado en Python para administrar el ingreso y s
 
 | Integrante | Usuario GitHub | Rol y Responsabilidades Principales |
 | :--- | :--- | :--- |
-| [Integrante 1] | `[@usuario1]` | **Dominio POO y Reglas de Cobro:** Clases de dominio con encapsulamiento (`__`), validaciones en setters, clase abstracta `ModalidadCobro`, herencia, polimorfismo y diagramas UML. |
-| [Integrante 2] | `[@usuario2]` | **Persistencia y Servicios:** Modelos ORM con SQLAlchemy y SQLite, transacciones atómicas (`commit`/`rollback`), integridad de datos y generador de datos de prueba. |
-| [Integrante 3] | `[@usuario3]` | **Programación Funcional e Interfaz Gráfica:** Funciones puras y operaciones con `map`, `filter`, `reduce` y `lambda` para reportes/consultas, interfaz en Tkinter y manejo de errores. |
+| Patricio Salazar | `@PatricioSalazar33` | **Dominio POO y Reglas de Cobro:** Clases de dominio con encapsulamiento (`__`), validaciones en setters, clase abstracta `ModalidadCobro`, herencia, polimorfismo y diagramas UML. |
+| Carlos Meléndez | `@MruCt` | **Persistencia y Servicios:** Modelos ORM con SQLAlchemy y SQLite, transacciones atómicas (`commit`/`rollback`), integridad de datos y generador de datos de prueba. |
+| Beatriz Martin | `@beatmartin` | **Programación Funcional e Interfaz Gráfica:** Funciones puras y operaciones con `map`, `filter`, `reduce` y `lambda` para reportes/consultas, interfaz en Tkinter y manejo de errores. |
 
 ---
 
